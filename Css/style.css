@@ -4654,7 +4654,7 @@
 }
 
 .block-default a:not(.btn) {
-  color: #786de4;
+  color: #0f6deb;
 }
 
 .block-default a:not(.btn):focus,
@@ -4806,7 +4806,7 @@
 }
 
 .block-light a:not(.btn) {
-  color: #786de4;
+  color: #0f6deb;
 }
 
 .block-light a:not(.btn):focus,
@@ -4820,7 +4820,7 @@
 }
 
 .block-primary {
-  background-color: #786de4;
+  background-color: #0f6deb;
   color: white;
 }
 
@@ -4892,7 +4892,7 @@
 }
 
 .color-primary {
-  color: #786de4 !important;
+  color: #0f6deb !important;
 }
 
 .block-info {
@@ -5875,14 +5875,14 @@ form._default textarea {
 .btn-default {
   border-color: #fff;
   background-color: #fff;
-  color: #786de4;
+  color: #0f6deb;
 }
 
 .btn-default:focus,
 .btn-default:hover {
   border-color: #ededed;
   background-color: #ededed;
-  color: #786de4;
+  color: #0f6deb;
 }
 
 .btn-default:active,
@@ -5890,7 +5890,7 @@ form._default textarea {
 .btn-default:active:hover {
   border-color: #ededed;
   background-color: #ededed;
-  color: #786de4;
+  color: #0f6deb;
 }
 
 .btn-invert {
@@ -5915,8 +5915,8 @@ form._default textarea {
 }
 
 .btn-primary {
-  border-color: #786de4;
-  background-color: #786de4;
+  border-color: #0f6deb;
+  background-color: #0f6deb;
   color: #fff;
 }
 
@@ -5930,14 +5930,14 @@ form._default textarea {
 .btn-primary:active,
 .btn-primary:active:focus,
 .btn-primary:active:hover {
-  border-color: #786de4;
-  background-color: #786de4;
+  border-color: #0f6deb;
+  background-color: #0f6deb;
   color: #fff;
 }
 
 .btn-accent {
-  border-color: #786de4;
-  background-color: #786de4;
+  border-color: #0f6deb;
+  background-color: #0f6deb;
   color: #fff;
 }
 
@@ -5951,8 +5951,8 @@ form._default textarea {
 .btn-accent:active,
 .btn-accent:active:focus,
 .btn-accent:active:hover {
-  border-color: #786de4;
-  background-color: #786de4;
+  border-color: #0f6deb;
+  background-color: #0f6deb;
   color: #fff;
 }
 
@@ -6433,7 +6433,7 @@ form._default textarea {
     height: 4px;
     -webkit-border-radius: 50px;
             border-radius: 50px;
-    background-color: #786de4;
+    background-color: #0f6deb;
   }
 }
 
